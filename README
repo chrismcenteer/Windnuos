@@ -1,0 +1,4 @@
+Windnuos is a GUI front end for the audio listing tool Dnuos. It is meant to be a
+replacement for the aging Guidua. I have encountered issues with Guidua sucking up an
+entire CPU core even after closing the application window, forcing me to use task
+manager to kill the process.
